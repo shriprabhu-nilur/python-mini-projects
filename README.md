@@ -1,0 +1,1 @@
+Add the readmi file for python mini project repo
